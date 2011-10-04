@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1317731562 source:d:\research\findprimes\src\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+	<memory>
+	<fstream>
+	<cmath>
+	<windows.h>
+
